@@ -12,4 +12,4 @@ alias ch="setxkbmap ch -variant fr -option && setxkbmap ch -variant fr -option c
 alias eur="setxkbmap maximekey -option && setxkbmap maximekey -option lv3:lsgt_switch -option caps:escape"
 ```
 
-
+![layout](maximekey.png?raw=true "layout")
