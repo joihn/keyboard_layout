@@ -22,7 +22,7 @@ xkb_symbols "basic"  {
 
         key <AD01> { [              q,                 Q,                   ae,                   AE ] };
         key <AD02> { [              w,                 W,                aring,                Aring ] };
-        key <AD03> { [              e,                 E,           ediaeresis,           Ediaeresis ] };
+        key <AD03> { [              e,                 E,           ecircumflex,           Ediaeresis ] };
         key <AD04> { [              r,                 R,               yacute,               Yacute ] };
         key <AD05> { [              t,                 T,                thorn,                Thorn ] };
         key <AD06> { [              z,                 Z,           ydiaeresis,           Ydiaeresis ] };
