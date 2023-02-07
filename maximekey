@@ -26,7 +26,7 @@ xkb_symbols "basic"  {
         key <AD04> { [              r,                 R,               yacute,               Yacute ] };
         key <AD05> { [              t,                 T,                thorn,                Thorn ] };
         key <AD06> { [              z,                 Z,           ydiaeresis,           Ydiaeresis ] };
-        key <AD07> { [              u,                 U,           udiaeresis,           Udiaeresis ] };
+        key <AD07> { [              u,                 U,          ucircumflex,           Udiaeresis ] };
         key <AD08> { [              i,                 I,           idiaeresis,           Idiaeresis ] };
         key <AD09> { [              o,                 O,           odiaeresis,           Odiaeresis ] };
         key <AD10> { [              p,                 P,                   oe,                   OE ] };
@@ -52,7 +52,7 @@ xkb_symbols "basic"  {
         key <AB04> { [              v,                 V,               igrave,               Igrave ] };
         key <AB05> { [              b,                 B,               iacute,               Iacute ] };
         key <AB06> { [              n,                 N,               ntilde,               Ntilde ] };
-        key <AB07> { [              m,                 M,           dead_greek,           squareroot ] };
+        key <AB07> { [              m,                 M,           underscore,           squareroot ] };
         key <AB08> { [          comma,              less,               ograve,               Ograve ] };
         key <AB09> { [         period,           greater,               oacute,               Oacute ] };
         key <AB10> { [          slash,          question,         questiondown,            0x1002026 ] };
