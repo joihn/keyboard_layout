@@ -40,7 +40,7 @@ xkb_symbols "basic"  {
         key <AC04> { [              f,                 F,               egrave,               Egrave ] };
         key <AC05> { [              g,                 G,               eacute,               Eacute ] };
         key <AC06> { [              h,                 H,               Left,               Ugrave ] };
-        key <AC07> { [              j,                 J,                underscore,               Uacute ] };
+        key <AC07> { [              j,                 J,                Down,               Uacute ] };
         key <AC08> { [              k,                 K,                Up,                U0132 ] };
         key <AC09> { [              l,                 L,               Right,               Oslash ] };
         key <AC10> { [      semicolon,             colon,               eacute,       periodcentered ] };
