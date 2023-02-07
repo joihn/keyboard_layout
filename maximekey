@@ -27,14 +27,14 @@ xkb_symbols "basic"  {
         key <AD05> { [              t,                 T,                thorn,                Thorn ] };
         key <AD06> { [              z,                 Z,           ydiaeresis,           Ydiaeresis ] };
         key <AD07> { [              u,                 U,          ucircumflex,           Udiaeresis ] };
-        key <AD08> { [              i,                 I,           idiaeresis,           Idiaeresis ] };
-        key <AD09> { [              o,                 O,           odiaeresis,           Odiaeresis ] };
+        key <AD08> { [              i,                 I,           icircumflex,           Idiaeresis ] };
+        key <AD09> { [              o,                 O,           ocircumflex,           Odiaeresis ] };
         key <AD10> { [              p,                 P,                   oe,                   OE ] };
         key <AD11> { [    bracketleft,         braceleft,        egrave,                U2039 ] };
         key <AD12> { [   bracketright,        braceright,       guillemotright,                U203A ] };
         key <BKSL> { [      backslash,               bar,              notsign,            brokenbar ] };
 
-        key <AC01> { [              a,                 A,           adiaeresis,           Adiaeresis ] };
+        key <AC01> { [              a,                 A,           acircumflex,           Adiaeresis ] };
         key <AC02> { [              s,                 S,               ssharp,              section ] };
         key <AC03> { [              d,                 D,                  eth,                  Eth ] };
         key <AC04> { [              f,                 F,               egrave,               Egrave ] };
